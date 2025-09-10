@@ -1,0 +1,19 @@
+- [x] Create directory python-ci-docker-lab
+- [x] Create app.py
+- [x] Create tests/test_app.py
+- [x] Create requirements.txt
+- [x] Create Dockerfile
+- [x] Create .github/workflows/ci-dockerhub.yml
+- [x] Test locally: python app.py
+- [x] Test locally: pytest -q
+- [ ] Test locally: docker build
+- [ ] Test locally: docker run
+- [ ] git init
+- [ ] git add .
+- [ ] git commit -m "init lab"
+- [ ] git branch -M main
+- [ ] git remote add origin
+- [ ] git push -u origin main
+- [ ] Instruct user to add secrets
+- [ ] Instruct user to watch CI
+- [ ] Optional: tag release
