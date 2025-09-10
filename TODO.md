@@ -6,14 +6,14 @@
 - [x] Create .github/workflows/ci-dockerhub.yml
 - [x] Test locally: python app.py
 - [x] Test locally: pytest -q
-- [ ] Test locally: docker build
-- [ ] Test locally: docker run
-- [ ] git init
-- [ ] git add .
-- [ ] git commit -m "init lab"
-- [ ] git branch -M main
-- [ ] git remote add origin
-- [ ] git push -u origin main
-- [ ] Instruct user to add secrets
-- [ ] Instruct user to watch CI
+- [x] Test locally: docker build
+- [x] Test locally: docker run
+- [x] git init
+- [x] git add .
+- [x] git commit -m "init lab"
+- [x] git branch -M main
+- [x] git remote add origin
+- [x] git push -u origin main
+- [x] Instruct user to add secrets
+- [x] Instruct user to watch CI
 - [ ] Optional: tag release
